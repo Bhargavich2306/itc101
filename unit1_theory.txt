@@ -1,0 +1,19 @@
+Q1. What is Artificial Intelligence? Explain the goals of AI and the four core things that AI systems try to do, with examples.
+
+Q2. Explain the difference between Narrow AI, General AI, and Super AI, with examples.
+
+Q3. What is an intelligent agent? Explain the agent–environment interaction and the structure of an agent.
+
+Q4. What is PEAS? Describe any one agent (for example, a self-driving taxi) using the PEAS framework.
+
+Q5. Describe the different types of agents (simple reflex, model-based, goal-based, utility-based, and learning agents).
+
+Q6. What is meant by problem solving as search? Explain how a problem is formulated as a search problem, with an example.
+
+Q7. Differentiate between uninformed (blind) search and informed (heuristic) search.
+
+Q8. Explain Breadth-First Search (BFS) and Depth-First Search (DFS), and compare them.
+
+Q9. What is a heuristic? Explain Greedy Best-First Search and A* Search, and state why A* is preferred.
+
+Q10. Explain Hill Climbing search, how it works, and its main limitations.
